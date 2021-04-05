@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Main extends Application {
-    ``
+
 
     @Override
     public void start(Stage primaryStage) throws Exception{
